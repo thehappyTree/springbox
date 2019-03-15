@@ -25,11 +25,13 @@
 <input type="submit" value="提交" />
 </form>
 
-<form action="/likewei/hello/modelinfo" method="POST">
-姓名: <input type="text" name="name">
+
+
+<form action="/likewei/hello/RequestModel" method="POST">
+姓名2: <input type="text" name="name">
 <br />
-年龄: <input type="text" name="age" />
-年级: <input type="text" name="id" />
+年龄2: <input type="text" name="age" />
+年级2: <input type="text" name="id" />
 
 <input type="submit" value="提交" />
 </form>
